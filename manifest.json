@@ -1,0 +1,10 @@
+{
+  "id": "self-hosted-vault-sync",
+  "name": "Self-Hosted Vault Sync",
+  "version": "0.4.0",
+  "minAppVersion": "1.4.0",
+  "description": "Fast, reliable vault sync via a self-hosted server.",
+  "author": "Valentin Britvich",
+  "authorUrl": "https://github.com/PeoneEr",
+  "isDesktopOnly": false
+}
